@@ -9,5 +9,6 @@ Gem::Specification.new do |s|
   s.email       = 'grackanil@gmail.com'
   s.files       = ["lib/gleksayhi.rb"]
   s.homepage    = 'https://rubygems.org/gems/gleksayhi'
+  s.metadata    = { "source_code_uri" => "https://github.com/grackanil/glekgems/tree/master/gleksayhi" }
   s.license     = 'MIT'
 end
